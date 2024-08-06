@@ -59,6 +59,6 @@ npm start
 ```
 
 ## Contato
-Autor: Daniel Neri
-Email: dnnxzz70@gmail.com
+Autor: Daniel Neri<br>
+Email: dnnxzz70@gmail.com<br>
 LinkedIn: [Meu Perfil](https://www.linkedin.com/in/daniel-neri-51a7b12b3/)

@@ -75,7 +75,7 @@ Silent Mines 💣
 // Função para deletar a mensagem
 async function deleteMessage(chatId: string, messageId: number): Promise<void> {
     try {
-        await bot.deleteMessage(chatId, String(messageId));
+        await bot.deleteMessage(chatId, messageId);
     } catch (error) {
         console.error('Error deleting message:', error);
     }
